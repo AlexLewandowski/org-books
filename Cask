@@ -4,7 +4,6 @@
 
 (depends-on "enlive")
 (depends-on "s")
-(depends-on "helm")
 (depends-on "dash")
 
 (development
